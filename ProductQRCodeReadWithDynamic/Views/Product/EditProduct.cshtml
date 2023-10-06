@@ -1,0 +1,75 @@
+﻿@using ProductQRCodeReadWithDynamic.Entities;
+@model Product
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<style>
+    .form-container {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #f2f2f2;
+        border-radius: 5px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+        .form-container h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .form-container label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .form-container input[type="text"],
+        .form-container input[type="number"],
+        .form-container input[type="date"] {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        .form-container button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+            .form-container button[type="submit"]:hover {
+                background-color: #45a049;
+            }
+</style>
+
+<div class="form-container">
+    <h2>Edit Product</h2>
+    <form method="post" asp-controller="Product" asp-action="EditProduct">
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="ProductCode" />
+
+        <div>
+            <label asp-for="ProductName">Product Name:</label>
+            <input type="text" asp-for="ProductName" />
+        </div>
+
+        <div>
+            <label asp-for="ProductQuantity">Product Quantity:</label>
+            <input type="number" asp-for="ProductQuantity" />
+        </div>
+
+        <div>
+            <label asp-for="ProductPrice">Product Price:</label>
+            <input type="number" asp-for="ProductPrice" step="0.01" />
+        </div>
+
+        <button type="submit">Save</button>
+    </form>
+</div>

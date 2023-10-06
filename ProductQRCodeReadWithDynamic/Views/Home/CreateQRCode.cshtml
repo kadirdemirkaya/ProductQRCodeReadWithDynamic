@@ -1,0 +1,15 @@
+﻿<h5>Create QR Code</h5>
+
+@using (Html.BeginForm("CreateQRCode", "Home", FormMethod.Post))
+{
+    <input type="text" name="inputText" />
+    <input type="submit" value="Generate" />
+}
+
+<hr />
+
+<div class="row">
+    <div class="col-12">
+        <img src="@Url.Action("CreateQRCode")" alt="QRCode" />
+    </div>
+</div>

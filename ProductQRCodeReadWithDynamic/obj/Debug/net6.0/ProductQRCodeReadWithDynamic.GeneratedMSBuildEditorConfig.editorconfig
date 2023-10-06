@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProductQRCodeReadWithDynamic
+build_property.RootNamespace = ProductQRCodeReadWithDynamic
+build_property.ProjectDir = C:\Users\Casper\Desktop\GitHub Projects\ProductQRCodeReadWithDynamic\ProductQRCodeReadWithDynamic\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Casper\Desktop\GitHub Projects\ProductQRCodeReadWithDynamic\ProductQRCodeReadWithDynamic
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Authentication/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Cam/GetCam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtXEdldENhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Cam/GetCamForUpdated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtXEdldENhbUZvclVwZGF0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Home/CreateQRCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVRUkNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Home/ReadCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWFkQ29kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Mail/CodeCorrectForProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbFxDb2RlQ29ycmVjdEZvclByb2R1Y3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Product/DetailProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Product/EditProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0UHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Shared/Components/UpdateForCode/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXBkYXRlRm9yQ29kZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casper/Desktop/GitHub Projects/ProductQRCodeReadWithDynamic/ProductQRCodeReadWithDynamic/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3yweqqdvmu

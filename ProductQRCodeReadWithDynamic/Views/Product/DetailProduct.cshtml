@@ -1,0 +1,40 @@
+﻿@using ProductQRCodeReadWithDynamic.Entities;
+@model Product
+
+@{
+    ViewData["Title"] = "Product Detail";
+}
+
+<h2>@Model.ProductName</h2>
+
+<table class="table">
+    <tr>
+        <th>Quantity</th>
+        <td>@Model.ProductQuantity</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>@Model.ProductPrice</td>
+    </tr>
+    <tr>
+        <th>Code</th>
+        <td>@Model.ProductCode</td>
+    </tr>
+    <tr>
+        <th>QRCode</th>
+        <td>
+            <button class="btn btn-primary" onclick="openPopup('@Url.Action("CodeForProduct", "Product", new { productCode = Model.ProductCode })')">Create QR Code</button>
+        </td>
+    </tr>
+</table>
+
+<script>
+    function openPopup(url) {
+        var width = 500;
+        var height = 500;
+        var left = (window.innerWidth - width) / 2;
+        var top = (window.innerHeight - height) / 2;
+        var options = 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=' + width + ', height=' + height + ', top=' + top + ', left=' + left;
+        window.open(url, 'popup', options);
+    }
+</script>
