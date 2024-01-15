@@ -25,7 +25,7 @@ namespace ProductQRCodeReadWithDynamic.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("connstring");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=ProductQRDbContext;Trusted_Connection=True;");
         }
     }
 }
