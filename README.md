@@ -27,21 +27,20 @@ Clone the project
   git clone https://github.com/kadirdemirkaya/ProductQRCodeReadWithDynamic.git
 ```
 
-Go to the project directory and create and save the migration for the database
-
-```bash
-  cd /ProductQRCodeReadWithDynamic
-  dotnet ef migrations add 'your_migration_name'
-  dotnet ef database update
-```
-
-
 Then change the url or information appropriate to your server from the .json extension files
 
 ```bash
   appsettings.json
       - SqlConnectionString:
       - EmailConfiguration:
+```
+
+Go to the project directory and create and save the migration for the database
+
+```bash
+  cd /ProductQRCodeReadWithDynamic
+  dotnet ef migrations add 'your_migration_name'
+  dotnet ef database update
 ```
 
 Run the server
