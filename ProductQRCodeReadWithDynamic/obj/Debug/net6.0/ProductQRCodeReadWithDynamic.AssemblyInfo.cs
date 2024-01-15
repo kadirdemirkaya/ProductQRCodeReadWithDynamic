@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductQRCodeReadWithDynamic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2761c8b5b8477591094d809aef308d69aea6b77")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductQRCodeReadWithDynamic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductQRCodeReadWithDynamic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
